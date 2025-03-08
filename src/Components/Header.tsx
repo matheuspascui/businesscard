@@ -1,6 +1,4 @@
 'use client'
-import Banner from '../../public/Images/laptopbanner.jpeg'
-import TechBanner from '../../public/Images/techbanner.jpeg'
 
 export default function Header() {
     return (

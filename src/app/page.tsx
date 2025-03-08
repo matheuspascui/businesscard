@@ -1,7 +1,6 @@
 import Apresentacao from "@/Components/Apresentacao";
 import Contato from "@/Components/Contato";
 import Header from "@/Components/Header";
-import Image from "next/image";
 //import emailImage from '../../public/Images/email.svg';
 
 export default function Home() {
